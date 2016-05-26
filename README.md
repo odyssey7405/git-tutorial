@@ -1,2 +1,3 @@
-#Git Ʃ�丮��
-- fix-B
+#Git 튜토리얼
+ -  fix-B
+ -  feature-A
